@@ -1,0 +1,5 @@
+name: LootRestrictions
+main: com.gmail.filoghost.lootrestrictions.LootRestrictions
+version: 1.0
+
+depend: [WildCommons]
